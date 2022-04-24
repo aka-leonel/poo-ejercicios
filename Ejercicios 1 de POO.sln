@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio2 juego balde", ".
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio 3 password", "..\Ejercicio 3 password\Ejercicio 3 password.csproj", "{C47998A6-CFAC-4EE7-B34E-6A30DF8DE2CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio 4 ecuaciones cuadraticas", "..\ejercicio 4 ecuaciones cuadraticas\ejercicio 4 ecuaciones cuadraticas.csproj", "{06C25F2B-F350-47B0-81D5-2F87DD9C7085}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejercicio 4 ecuaciones cuadraticas", "..\ejercicio 4 ecuaciones cuadraticas\ejercicio 4 ecuaciones cuadraticas.csproj", "{06C25F2B-F350-47B0-81D5-2F87DD9C7085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio 7 animales herencia", "..\ejercicio 7 animales herencia\ejercicio 7 animales herencia.csproj", "{D1768FD4-2406-44E6-81B3-192657CFF242}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{06C25F2B-F350-47B0-81D5-2F87DD9C7085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06C25F2B-F350-47B0-81D5-2F87DD9C7085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06C25F2B-F350-47B0-81D5-2F87DD9C7085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1768FD4-2406-44E6-81B3-192657CFF242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1768FD4-2406-44E6-81B3-192657CFF242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1768FD4-2406-44E6-81B3-192657CFF242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1768FD4-2406-44E6-81B3-192657CFF242}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
